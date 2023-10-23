@@ -1,0 +1,193 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* navbar  */
+.navbar{
+  background-color: rgb(35, 35, 101)!important;
+}
+.navbar a:hover{
+  color: rgb(185, 225, 39) !important;
+}
+.navbar a{
+  font-weight: bold  !important;
+  /* font-size: larger !important; */
+  font-family: sans-serif !important;
+}
+
+
+body{
+background-color: rgb(17, 128, 168)!important;
+}
+.hb{
+  font-weight: bold  !important;
+  font-size: 45px !important;
+font-family: fantasy !important;
+}
+.hg{
+  font-family: fantasy !important;
+}
+.marq{
+  /* color: rgb(149, 203, 14); */
+  font-size: larger;
+  color: #000;
+}
+/* .box{
+  padding-left: 8px !important;
+  background: #cc7bbc ;
+  width: 250px;
+  border-radius: 20px solid !important;
+  border-right-color: green !important;
+  border-left-color: gold !important;
+
+  
+} */
+
+
+.socila-link li{
+  list-style: none !important;
+}
+.a1{
+  margin-left: 220px;
+  margin-top: 20px;
+}
+.card:hover{
+  color: rgb(199, 223, 43) !important;
+
+}
+.bg1{
+  background: url(../public/images/leaf/lbg.jpg);
+  
+
+}
+
+
+
+
+
+
+
+
+/* 
+footer */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+
+
+footer {
+  background: #3c3b3b;
+  padding: 50px !important;
+  padding: 50px;
+  padding-bottom: 32px !important; }
+  @media screen and (max-width: 940px) {
+    footer {
+      padding: 30px 10px; } }
+  @media screen and (max-width: 600px) {
+    footer {
+      padding-bottom: 0px !important;
+      padding-left: 15px !important;
+      padding-right: 15px !important; } }
+  @media screen and (max-width: 991px) {
+    footer {
+      padding-bottom: 50px !important; } }
+  footer .content-ro {
+    color: #FFF;
+    margin-top: 20px; }
+    footer .content-ro h2 {
+      font-size: 1.3rem;
+      font-weight: 600; }
+    footer .content-ro .footer-contact .address-row {
+      display: flex;
+      margin-top: 10px; }
+      footer .content-ro .footer-contact .address-row .icon {
+        padding: 15px; }
+      footer .content-ro .footer-contact .address-row .detail p {
+        font-weight: 300; }
+    footer .content-ro .footer-links ul {
+      margin-bottom: 15px; }
+      footer .content-ro .footer-links ul li {
+        float: left;
+        width: 50%;
+        font-weight: 300; }
+    footer .content-ro .form-card {
+      margin-top: -138px;
+      box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+      background-color: #fff; }
+      @media screen and (max-width: 600px) {
+        footer .content-ro .form-card {
+          margin-top: 10px; } }
+      footer .content-ro .form-card .form-title {
+        padding: 20px;
+        background-color: #f9f9f9; }
+        footer .content-ro .form-card .form-title h4 {
+          margin-bottom: 0px;
+          font-weight: 600;
+          color: #444;
+          text-align: center; }
+      footer .content-ro .form-card .form-body {
+        padding: 20px;
+        border-top: 1px solid #cccccc5; }
+        footer .content-ro .form-card .form-body input {
+          border-radius: 0px;
+          height: 47px; }
+  footer .footer-copy {
+    padding: 30px 0px;
+    color: #FFF;
+    margin-top: 35px;
+    border-top: 1px solid #393838;
+    padding-bottom: 0px; }
+    footer .footer-copy a {
+      color: #ccc; }
+    @media screen and (max-width: 991px) {
+      footer .footer-copy .socila-link {
+        margin-top: 20px; } }
+    footer .footer-copy .socila-link ul {
+      float: right; }
+      footer .footer-copy .socila-link ul li {
+        float: left;
+        padding: 0px 20px; }
+        footer .footer-copy .socila-link ul li a {
+          color: #fff; 
+        
+        }
+        .socila-link ul li a i{
+          text-decoration: none;
+        }
+
+.footer-bot-image img {
+  position: absolute;
+  margin-top: -112px; }
+
+/* ===================================== Gallery  CSS ================================== */
+.gallery {
+  padding: 50px;
+  background-color: #f1f1f152; }
+  @media screen and (max-width: 940px) {
+    .gallery {
+      padding: 30px 10px; } }
+  @media (min-width: 478px) {
+    .gallery .gg-element:nth-child(3n+0) {
+      grid-row-end: span 1; } }
+
+
+/* Login */
+
+
+
+
+
+
+
+
+
+
+
